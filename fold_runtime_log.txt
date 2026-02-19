@@ -1,5 +1,0 @@
-Fold 1: time=15.510s
-Fold 2: time=15.558s
-Fold 3: time=15.504s
-Fold 4: time=15.750s
-Fold 5: time=15.392s
