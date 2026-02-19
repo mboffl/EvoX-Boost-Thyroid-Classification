@@ -42,6 +42,7 @@ A CUDA-enabled GPU environment is recommended for full optimization performance.
 Correspondence
 
 For academic queries:
+
 Mohan Babu M
 School of Computer Science and Engineering
 VIT University, Vellore
