@@ -112,7 +112,7 @@ python paper_dashboard.py
 
 * Python 3.11
 * CUDA-enabled GPU (recommended)
-* Minimum 16GB RAM
+* Minimum 16GB RAM, 6GB GPU
 
 ---
 
