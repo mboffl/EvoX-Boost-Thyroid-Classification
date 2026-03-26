@@ -110,9 +110,9 @@ python paper_dashboard.py
 
 ## 💻 System Requirements
 
-* Python 3.8+
+* Python 3.11
 * CUDA-enabled GPU (recommended)
-* Minimum 8GB RAM
+* Minimum 16GB RAM
 
 ---
 
