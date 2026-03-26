@@ -1,0 +1,5 @@
+parameter,value,accuracy
+learning_rate,0.01,0.9884234711912336
+learning_rate,0.02,0.9886885825379993
+learning_rate,0.03,0.9885118416401556
+learning_rate,0.05,0.9886002120890774
