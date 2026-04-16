@@ -1,3 +1,7 @@
+⚠️ License Notice
+
+This repository is NOT open-source. Unauthorized use or reproduction is prohibited.
+
 # EvoX-Boost: Hybrid Evolutionary GPU-XGBoost for Multiclass Thyroid Disease Classification
 
 ## 📌 Overview
