@@ -63,9 +63,6 @@ The EvoX-Boost pipeline consists of:
 ### Performance (XGBoost - EvoX)
 
 * Accuracy: **0.9890**
-* Precision: **0.9890**
-* Recall: **0.9890**
-* F1-score: **0.9890**
 
 ### Validation Experiments
 
